@@ -10,3 +10,5 @@ Install FailMock -> create failmock.yaml -> run the server -> call the fake prov
 ```
 
 ## Start here
+
+1. [Start here](docs/start-here.md)
